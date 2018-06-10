@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 19:47:30 2018
 
-@author: xingu
+@author: xinguang
 """
 
 bicycles = ['trek', 'cannondlale', 'redline', 'specialized']

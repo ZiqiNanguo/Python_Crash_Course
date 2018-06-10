@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:48:58 2018
 
-@author: xingu
+@author: xinguang
 """
 
 banned_users = ['andrew', 'carolina', 'david']

@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:37:11 2018
 
-@author: xingu
+@author: xinguang
 """
 
 dimensions = (200, 50)

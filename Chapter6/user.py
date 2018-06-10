@@ -2,7 +2,7 @@
 """
 Created on Sat Jun  9 09:48:18 2018
 
-@author: xingu
+@author: xinguang
 """
 
 user_0 = {

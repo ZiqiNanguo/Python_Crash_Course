@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:29:21 2018
 
-@author: xingu
+@author: xinguang
 """
 
 players = ['charles', 'martina', 'michael', 'florence', 'eli']

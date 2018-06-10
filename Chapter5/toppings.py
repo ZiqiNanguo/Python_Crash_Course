@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:44:04 2018
 
-@author: xingu
+@author: xinguang
 """
 
 requested_topping = 'mushrooms'

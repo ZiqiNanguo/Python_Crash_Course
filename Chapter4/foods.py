@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:33:09 2018
 
-@author: xingu
+@author: xinguang
 """
 
 my_foods = ['pizza', 'falafel', 'carrot cake']

@@ -2,7 +2,7 @@
 """
 Created on Sat Jun  9 09:43:33 2018
 
-@author: xingu
+@author: xinguang
 """
 
 favorite_languages = {

@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:18:22 2018
 
-@author: xingu
+@author: xinguang
 """
 
 magicians = ['alice', 'david', 'carolina']
