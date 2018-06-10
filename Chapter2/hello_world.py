@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 17:33:00 2018
 
-@author: xingu
+@author: xinguang
 """
 
 message = "Hello Python world!"

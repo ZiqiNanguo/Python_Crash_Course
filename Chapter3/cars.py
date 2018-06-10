@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:08:15 2018
 
-@author: xingu
+@author: xinguang
 """
 #list.sorted()会永久改变列表
 cars = ['bmw', 'audi', 'toyota', 'subaru']

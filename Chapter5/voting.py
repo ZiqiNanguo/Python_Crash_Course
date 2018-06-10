@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:50:32 2018
 
-@author: xingu
+@author: xinguang
 """
 
 age = 19

@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 17:30:02 2018
 
-@author: xingu
+@author: xinguang
 """
 print("Hello Python interpreter!")
 print("Hello world!")

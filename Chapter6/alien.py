@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 21:23:07 2018
 
-@author: xingu
+@author: xinguang
 """
 
 alien_0 = {'color': 'green', 'points':5}

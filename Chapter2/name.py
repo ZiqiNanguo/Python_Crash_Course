@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 17:36:31 2018
 
-@author: xingu
+@author: xinguang
 """
 
 name = "ada lovelace"

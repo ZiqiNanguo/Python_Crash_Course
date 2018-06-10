@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:23:41 2018
 
-@author: xingu
+@author: xinguang
 """
 
 even_numbers = list(range(2,11,2))

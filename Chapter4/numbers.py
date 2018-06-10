@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:22:04 2018
 
-@author: xingu
+@author: xinguang
 """
 
 for value in range(1,6):

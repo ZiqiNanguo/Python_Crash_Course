@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 19:44:07 2018
 
-@author: xingu
+@author: xinguang
 """
 
 # 向大家问好

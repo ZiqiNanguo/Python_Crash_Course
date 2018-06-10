@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 20:45:36 2018
 
-@author: xingu
+@author: xinguang
 """
 
 

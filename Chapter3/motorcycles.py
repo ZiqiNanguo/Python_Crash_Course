@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 19:50:45 2018
 
-@author: xingu
+@author: xinguang
 """
 
 motorcycles = ['honda', 'yamaha', 'suzuki']
